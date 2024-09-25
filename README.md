@@ -16,3 +16,4 @@
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
     <b> jetson image
     ![Uploading image.png…]()
+
