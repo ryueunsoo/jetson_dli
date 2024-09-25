@@ -16,6 +16,7 @@
         - 그외 쿨링펜, lcd, 또는 모니터. hdmi
     <b> jetson image
     ![화면 캡처 2024-09-25 160828](https://github.com/user-attachments/assets/ab335c3d-bd93-4ee0-a9bc-9c3522276e1f)
+    ![image](https://github.com/user-attachments/assets/ca75b378-5444-4ae2-8031-3fd46992492a)
 
 <b> 2. jetson nano에 대하여
 
