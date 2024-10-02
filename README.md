@@ -52,7 +52,7 @@ mode1사진 mode2영상
 1
 0
 ```
-#####  <img width="80%" src="https://github.com/jetsonmom/dli/issues/2#issue-2560812440"/>
+  <img width="80%" src="https://github.com/jetsonmom/dli/issues/2#issue-2560812440"/>
 
 
 
