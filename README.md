@@ -46,9 +46,9 @@ ls
 python3 usb-camera-gst.py 
 python3  face-detect-usb.py
 nvgstcapture-1.0 --mode=1 --camsrc=0 --cap-dev-node=0
-j   mode1은 사진
+j  
 nvgstcapture-1.0 --mode=2 --camsrc=0 --cap-dev-node=0
-    mode2는 영상
+mode1사진 mode2영상
 1
 0
 ```
