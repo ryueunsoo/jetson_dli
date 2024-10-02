@@ -52,7 +52,8 @@ mode1사진 mode2영상
 1
 0
 ```
-#####  이곳에 사진 넣고 영상 넣을 것  참고 링크 https://ndb796.tistory.com/557
+#####  <img width="80%" src="https://github.com/jetsonmom/dli/issues/2#issue-2560812440"/>
+
 
 
 <b>  7. 한글 설치 , reboot 한 후 오른쪽 하단 키보드 모양을 오른쪽 마우스 클릭→ configure click
